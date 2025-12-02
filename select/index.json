@@ -1,48 +1,168 @@
 {
   "version": 1,
-  "base_track": "she will be missed",
-  "base_artist": "Ekkstacy",
-  "createdAt": "2025-12-02T10:38:12.587959Z",
+  "base_track": "Stressed Out",
+  "base_artist": "twenty one pilots",
+  "createdAt": "2025-12-02T10:38:45.679557Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "she will be missed",
-      "artist": "EKKSTACY",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
       "has_synced": true,
-      "path": "select/01_she_will_be_missed_EKKSTACY.lrc"
+      "path": "select/01_Stressed_Out_Twenty_One_Pilots.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "she will be missed (Paused)",
-      "artist": "EKKSTACY",
+      "title": "Stressed Out",
+      "artist": "A Tribe Called Quest",
       "has_synced": true,
-      "path": "select/02_she_will_be_missed_(Paused)_EKKSTACY.lrc"
+      "path": "select/02_Stressed_Out_A_Tribe_Called_Quest.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "she will be missed",
-      "artist": "EKKSTACY",
-      "has_synced": false,
-      "path": "select/03_she_will_be_missed_EKKSTACY.txt"
+      "title": "Stressed Out",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/03_Stressed_Out_A_Tribe_Called_Quest.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "she will be missed",
-      "artist": "EKKSTACY",
+      "title": "'Roni Got Me Stressed Out",
+      "artist": "Chromeo",
       "has_synced": true,
-      "path": "select/04_she_will_be_missed_EKKSTACY.lrc"
+      "path": "select/04_'Roni_Got_Me_Stressed_Out_Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Puddles Pity Party",
+      "has_synced": true,
+      "path": "select/05_Stressed_Out_Scott_Bradlee's_Postmodern_Jukebox_feat._Puddles_Pity_Party.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": true,
+      "path": "select/06_Stressed_Out_Scott_Bradlee's_Postmodern_Jukebox.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Puddle of Mudd",
+      "has_synced": false,
+      "path": "select/07_Stressed_Out_Puddle_of_Mudd.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stressed Out (Close To The Edge)",
+      "artist": "Airplay",
+      "has_synced": true,
+      "path": "select/08_Stressed_Out_(Close_To_The_Edge)_Airplay.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "twenty one pilots",
+      "has_synced": true,
+      "path": "select/09_Stressed_Out_twenty_one_pilots.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/10_Stressed_Out_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Choker / Stressed Out / Migraine / Morph / Holding On To You - Livestream Version",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/11_Choker___Stressed_Out___Migraine___Morph___Holding_On_To_You_-_Livestream_Versio_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stressed Out (remix)",
+      "artist": "A Tribe Called Quest",
+      "has_synced": false,
+      "path": "select/12_Stressed_Out_(remix)_A_Tribe_Called_Quest.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/13_Stressed_Out_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "A Tribe Called Quest",
+      "has_synced": true,
+      "path": "select/14_Stressed_Out_A_Tribe_Called_Quest.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/15_Stressed_Out_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Babyface",
+      "has_synced": false,
+      "path": "select/16_Stressed_Out_Babyface.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Choker \u0000 Stressed Out \u0000 Migraine \u0000 Morph \u0000 Holding On To You (Livestream Version)",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/17_Choker_\u0000_Stressed_Out_\u0000_Migraine_\u0000_Morph_\u0000_Holding_On_To_You_(Livestream_Version_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/18_Stressed_Out_Twenty_One_Pilots.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
+      "has_synced": true,
+      "path": "select/19_Stressed_Out_Twenty_One_Pilots.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "she will be missed",
-      "artist": "EKKSTACY",
+      "title": "Stressed Out",
+      "artist": "Twenty One Pilots",
       "has_synced": false,
-      "path": "select/pl_01_she_will_be_missed_EKKSTACY.txt"
+      "path": "select/pl_01_Stressed_Out_Twenty_One_Pilots.txt"
     }
   ]
 }
