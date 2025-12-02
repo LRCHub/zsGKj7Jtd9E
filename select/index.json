@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "she will be missed",
+  "base_artist": "Ekkstacy",
+  "createdAt": "2025-12-02T10:38:12.587959Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "she will be missed",
+      "artist": "EKKSTACY",
+      "has_synced": true,
+      "path": "select/01_she_will_be_missed_EKKSTACY.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "she will be missed (Paused)",
+      "artist": "EKKSTACY",
+      "has_synced": true,
+      "path": "select/02_she_will_be_missed_(Paused)_EKKSTACY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "she will be missed",
+      "artist": "EKKSTACY",
+      "has_synced": false,
+      "path": "select/03_she_will_be_missed_EKKSTACY.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "she will be missed",
+      "artist": "EKKSTACY",
+      "has_synced": true,
+      "path": "select/04_she_will_be_missed_EKKSTACY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "she will be missed",
+      "artist": "EKKSTACY",
+      "has_synced": false,
+      "path": "select/pl_01_she_will_be_missed_EKKSTACY.txt"
+    }
+  ]
+}
